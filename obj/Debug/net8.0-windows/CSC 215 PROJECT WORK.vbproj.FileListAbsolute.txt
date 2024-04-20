@@ -1,0 +1,40 @@
+C:\Users\USER\source\repos\prototype\bin\Debug\net8.0-windows\CSC 215 PROJECT WORK.exe
+C:\Users\USER\source\repos\prototype\bin\Debug\net8.0-windows\CSC 215 PROJECT WORK.deps.json
+C:\Users\USER\source\repos\prototype\bin\Debug\net8.0-windows\CSC 215 PROJECT WORK.runtimeconfig.json
+C:\Users\USER\source\repos\prototype\bin\Debug\net8.0-windows\CSC 215 PROJECT WORK.dll
+C:\Users\USER\source\repos\prototype\bin\Debug\net8.0-windows\CSC 215 PROJECT WORK.pdb
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC_215_PROJECT_WORK.Form1.resources
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC_215_PROJECT_WORK.Form2.resources
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC_215_PROJECT_WORK.Form3.resources
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC_215_PROJECT_WORK.txtPictureFolder.resources
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC_215_PROJECT_WORK.Resources.resources
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.AssemblyInfo.vb
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.dll
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\refint\CSC 215 PROJECT WORK.dll
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.pdb
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.genruntimeconfig.cache
+C:\Users\USER\source\repos\prototype\obj\Debug\net8.0-windows\ref\CSC 215 PROJECT WORK.dll
+C:\Users\USER\source\repos\Csc 215 project 6\bin\Debug\net8.0-windows\CSC 215 PROJECT WORK.exe
+C:\Users\USER\source\repos\Csc 215 project 6\bin\Debug\net8.0-windows\CSC 215 PROJECT WORK.deps.json
+C:\Users\USER\source\repos\Csc 215 project 6\bin\Debug\net8.0-windows\CSC 215 PROJECT WORK.runtimeconfig.json
+C:\Users\USER\source\repos\Csc 215 project 6\bin\Debug\net8.0-windows\CSC 215 PROJECT WORK.dll
+C:\Users\USER\source\repos\Csc 215 project 6\bin\Debug\net8.0-windows\CSC 215 PROJECT WORK.pdb
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC_215_PROJECT_WORK.Form1.resources
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC_215_PROJECT_WORK.Form2.resources
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC_215_PROJECT_WORK.Form3.resources
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC_215_PROJECT_WORK.txtPictureFolder.resources
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC_215_PROJECT_WORK.Resources.resources
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.AssemblyInfo.vb
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.dll
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\refint\CSC 215 PROJECT WORK.dll
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.pdb
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\CSC 215 PROJECT WORK.genruntimeconfig.cache
+C:\Users\USER\source\repos\Csc 215 project 6\obj\Debug\net8.0-windows\ref\CSC 215 PROJECT WORK.dll
