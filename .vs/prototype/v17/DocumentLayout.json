@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|solutionrelative:form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|c:\\users\\user\\source\\repos\\csc 215 project 6\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|solutionrelative:form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|solutionrelative:form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6A83660-2B8F-4205-B895-93531740B13D}|CSC 215 PROJECT WORK.vbproj|C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
@@ -46,36 +46,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Form1.vb [Design]",
-              "RelativeToolTip": "Form1.vb [Design]",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Form1.vb [Design]*",
+              "RelativeToolTip": "Form1.vb [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-16T13:36:29.528Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Form1.vb",
-              "RelativeToolTip": "Form1.vb",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAACwAAAAlAAAA",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Form1.vb*",
+              "RelativeToolTip": "Form1.vb*",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwC4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-16T13:38:09.939Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form2.vb",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Form2.vb",
               "RelativeDocumentMoniker": "Form2.vb",
@@ -100,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form3.vb",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Form3.vb",
               "RelativeDocumentMoniker": "Form3.vb",
@@ -125,13 +127,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form4.vb",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Form4.vb",
               "RelativeDocumentMoniker": "Form4.vb",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Form4.vb",
               "RelativeToolTip": "Form4.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABTAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-16T13:38:20.109Z",
               "IsPinned": true,
@@ -139,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Form4.vb [Design]",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Form4.vb",
               "RelativeDocumentMoniker": "Form4.vb",
@@ -147,11 +149,12 @@
               "RelativeToolTip": "Form4.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-16T13:36:51.692Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Module1.vb",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Csc 215 project 6\\Module1.vb",
               "RelativeDocumentMoniker": "Module1.vb",

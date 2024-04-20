@@ -42,8 +42,9 @@ PRESS CHECK STATUS IS YOU ONLY WANT TO CHECK STATUS
             Me.BackColor = Color.White
             Form2.BackColor = Color.White
             Form3.BackColor = Color.White
-            Me.ForeColor = Color.Gray
+            Me.ForeColor = Color.Black
             Button5.Text = "LIGHT MODE"
+            Button5.BackColor = Color.Gray
             isBackColorBlack = False
         Else
             ' Change background color to black for all forms
@@ -52,6 +53,7 @@ PRESS CHECK STATUS IS YOU ONLY WANT TO CHECK STATUS
             Form3.BackColor = Color.Black
             Me.ForeColor = Color.White
             Button5.Text = "DARK MODE"
+            Button5.BackColor = Color.Black
             isBackColorBlack = True
         End If
     End Sub

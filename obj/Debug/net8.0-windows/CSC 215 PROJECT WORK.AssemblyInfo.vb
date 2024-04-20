@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("CSC 215 PROJECT WORK"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b77ff73b9a03776aed3f08b41ce3c313db716957"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("CSC 215 PROJECT WORK"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("CSC 215 PROJECT WORK"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
